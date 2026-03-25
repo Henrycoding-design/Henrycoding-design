@@ -11,7 +11,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+tools+that+matter.;TypeScript+%7C+Python+%7C+Java;From+satellites+to+scam+detection.)](https://git.io/typing-svg)
 
-CS student building things at the intersection of AI, security, and utility.
+A CS student who loves AI, Learning, Space, and Security.
 
 ---
 
