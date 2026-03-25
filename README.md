@@ -9,7 +9,7 @@
   ╚═════╝╚══════╝    ╚══════╝   ╚═╝    ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝   ╚═╝  
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=TypeScript+%7C+Python+%7C+HTML/CSS+%7C+Java;SPACEAPP, Academic Oracle, Scam Detection)](https://git.io/typing-svg)
+[![Typing SVG][(https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=TypeScript+%7C+Python+%7C+HTML%2FCSS+%7C+Java;SPACEAPP,+Academic+Oracle,+Scam+Detection)](https://git.io/typing-svg)
 
 A CS student who loves AI, Learning, Space, and Security.
 
